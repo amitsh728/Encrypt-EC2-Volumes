@@ -1,9 +1,15 @@
 # Encrypt-EC2-Volumes
-This script aims to encrypt all the ec2 volumes attached to instances. 
+This script aims to encrypt the ec2 volumes attached to instances.
+The script asks the user to either encrypt all the volumes or specify a list of volumes to encrypt at run time. 
 
 ### Usage:
 1. Update Config File: *config.py*
 2. Run **main.py** (*$python main.py*)
+3. Choose what volumes you wish to encrypt:
+   - If you wish to proceed with all the volumes, enter Yes.
+   - If you wish to choose your own volumes, enter No.
+4. Confirm you wish to enter your own list of volume IDs.
+5. Input a **space separated list** of Volume IDs.
 
 ### config.py
 This file contains the basic configuration needed to execute the script:
