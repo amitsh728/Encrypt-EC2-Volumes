@@ -1,3 +1,7 @@
+<img src="https://s3-ap-south-1.amazonaws.com/amitcloud/work.amit.cloud/wp-content/uploads/2019/04/19101016/logo.svg?sanitize=true" height="50">
+
+Checkout my profile and other projects at [amit.cloud](http://work.amit.cloud)
+
 # Encrypt EC2 Volumes
 This script aims to encrypt the ec2 volumes attached to instances.
 The script asks the user to either encrypt all the volumes or specify a list of volumes to encrypt at run time. 
