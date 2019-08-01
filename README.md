@@ -1,4 +1,4 @@
-<img src="https://s3-ap-south-1.amazonaws.com/amitcloud/work.amit.cloud/wp-content/uploads/2019/04/19101016/logo.svg?sanitize=true" height="50">
+<a href="https://work.amit.cloud"><img src="https://s3-ap-south-1.amazonaws.com/amitcloud/work.amit.cloud/wp-content/uploads/2019/04/19101016/logo.svg?sanitize=true" title="amit.cloud" alt="Amit Sharma" height="50"></a>
 
 Checkout my profile and other projects at [amit.cloud](http://work.amit.cloud)
 
